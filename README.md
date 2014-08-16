@@ -3,8 +3,14 @@ Hakkında
 
 mySQL yedeğinizi almaya ve Yandex.Disk hesabınıza upload etmeye yarayan gelişmiş özellikli bir sınıftır. Bugün kendim için yazdığım sınıfımı sizlerle de paylaşmak istedim. Geliştirilebilir bir sınıftır.
 
+Bilgilendirme
+=================
+
+Sınıf mySQL Veritabanına ulaşmak için mySQLi kullanmaktadır. Bu yüzden php sürümü PHP 5.x ve üstü olmalıdır.
+
 Kullanımı
 =================
+
 ```php
 <?php
 include "sBackup.class.php";
