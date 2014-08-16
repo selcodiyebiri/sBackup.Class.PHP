@@ -1,7 +1,7 @@
 <?php
 
 /*
- *  Class sPagination
+ *  Class sBackup
  *  @author Selçuk Çelik
  *  @blog http://selcuk.in
  *  @mail selcuk@msn.com
